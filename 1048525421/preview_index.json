@@ -1,8 +1,104 @@
 {
   "qq_number": "1565637055",
   "group_number": "1048525421",
-  "updated_at": "2026-04-22T16:19:16.095593",
+  "updated_at": "2026-04-23T15:52:36.924436",
   "skins": [
+    {
+      "name": "羽-pinkpony",
+      "file": "pinkpony2.bdi",
+      "thumb": "pinkpony2.bdi_py_26_light_thumb.png",
+      "full": "pinkpony2.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-甜蕾缪糕",
+      "file": "甜蕾缪糕2.bdi",
+      "thumb": "甜蕾缪糕2.bdi_py_26_light_thumb.png",
+      "full": "甜蕾缪糕2.bdi_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "波点味可莉融底1.bdi",
+      "thumb": "波点味可莉融底1.bdi_py_26_light_thumb.png",
+      "full": "波点味可莉融底1.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-超天酱",
+      "file": "超天酱2.bdi",
+      "thumb": "超天酱2.bdi_py_26_light_thumb.png",
+      "full": "超天酱2.bdi_py_26_light.png"
+    },
+    {
+      "name": "皮肤名称",
+      "file": "夢核病天使融1.bdi",
+      "thumb": "夢核病天使融1.bdi_py_26_light_thumb.png",
+      "full": "夢核病天使融1.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-纯白誓言",
+      "file": "纯白誓言.bdi",
+      "thumb": "纯白誓言.bdi_py_26_light_thumb.png",
+      "full": "纯白誓言.bdi_py_26_light.png"
+    },
+    {
+      "name": "皮肤名称",
+      "file": "夢核病天使融2.bdi",
+      "thumb": "夢核病天使融2.bdi_py_26_light_thumb.png",
+      "full": "夢核病天使融2.bdi_py_26_light.png"
+    },
+    {
+      "name": "皮肤名称",
+      "file": "梦幻少女融2.bdi",
+      "thumb": "梦幻少女融2.bdi_py_26_light_thumb.png",
+      "full": "梦幻少女融2.bdi_py_26_light.png"
+    },
+    {
+      "name": "皮肤名称",
+      "file": "梦幻少女融1.bdi",
+      "thumb": "梦幻少女融1.bdi_py_26_light_thumb.png",
+      "full": "梦幻少女融1.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-樱粉丝绒",
+      "file": "樱粉丝绒音效一.bdi",
+      "thumb": "樱粉丝绒音效一.bdi_py_26_light_thumb.png",
+      "full": "樱粉丝绒音效一.bdi_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "波点味可莉融底2.bdi",
+      "thumb": "波点味可莉融底2.bdi_py_26_light_thumb.png",
+      "full": "波点味可莉融底2.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-甜蕾缪糕",
+      "file": "甜蕾缪糕.bdi",
+      "thumb": "甜蕾缪糕.bdi_py_26_light_thumb.png",
+      "full": "甜蕾缪糕.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-pinkpony",
+      "file": "pinkpony.bdi",
+      "thumb": "pinkpony.bdi_py_26_light_thumb.png",
+      "full": "pinkpony.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-纯白誓言",
+      "file": "纯白誓言2.bdi",
+      "thumb": "纯白誓言2.bdi_py_26_light_thumb.png",
+      "full": "纯白誓言2.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-樱粉丝绒",
+      "file": "樱粉丝绒音效二.bdi",
+      "thumb": "樱粉丝绒音效二.bdi_py_26_light_thumb.png",
+      "full": "樱粉丝绒音效二.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-超天酱",
+      "file": "超天酱.bdi",
+      "thumb": "超天酱.bdi_py_26_light_thumb.png",
+      "full": "超天酱.bdi_py_26_light.png"
+    },
     {
       "name": "羽-甜蕾缪糕",
       "file": "甜蕾缪糕.bds",
@@ -110,102 +206,6 @@
       "file": "夢核病天使彩2.bds",
       "thumb": "夢核病天使彩2.bds_py_26_light_thumb.png",
       "full": "夢核病天使彩2.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-pinkpony",
-      "file": "pinkpony2.bdi",
-      "thumb": "pinkpony2.bdi_py_26_light_thumb.png",
-      "full": "pinkpony2.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-甜蕾缪糕",
-      "file": "甜蕾缪糕2.bdi",
-      "thumb": "甜蕾缪糕2.bdi_py_26_light_thumb.png",
-      "full": "甜蕾缪糕2.bdi_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "波点味可莉融底1.bdi",
-      "thumb": "波点味可莉融底1.bdi_py_26_light_thumb.png",
-      "full": "波点味可莉融底1.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-超天酱",
-      "file": "超天酱2.bdi",
-      "thumb": "超天酱2.bdi_py_26_light_thumb.png",
-      "full": "超天酱2.bdi_py_26_light.png"
-    },
-    {
-      "name": "皮肤名称",
-      "file": "夢核病天使融1.bdi",
-      "thumb": "夢核病天使融1.bdi_py_26_light_thumb.png",
-      "full": "夢核病天使融1.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-纯白誓言",
-      "file": "纯白誓言.bdi",
-      "thumb": "纯白誓言.bdi_py_26_light_thumb.png",
-      "full": "纯白誓言.bdi_py_26_light.png"
-    },
-    {
-      "name": "皮肤名称",
-      "file": "夢核病天使融2.bdi",
-      "thumb": "夢核病天使融2.bdi_py_26_light_thumb.png",
-      "full": "夢核病天使融2.bdi_py_26_light.png"
-    },
-    {
-      "name": "皮肤名称",
-      "file": "梦幻少女融2.bdi",
-      "thumb": "梦幻少女融2.bdi_py_26_light_thumb.png",
-      "full": "梦幻少女融2.bdi_py_26_light.png"
-    },
-    {
-      "name": "皮肤名称",
-      "file": "梦幻少女融1.bdi",
-      "thumb": "梦幻少女融1.bdi_py_26_light_thumb.png",
-      "full": "梦幻少女融1.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-樱粉丝绒",
-      "file": "樱粉丝绒音效一.bdi",
-      "thumb": "樱粉丝绒音效一.bdi_py_26_light_thumb.png",
-      "full": "樱粉丝绒音效一.bdi_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "波点味可莉融底2.bdi",
-      "thumb": "波点味可莉融底2.bdi_py_26_light_thumb.png",
-      "full": "波点味可莉融底2.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-甜蕾缪糕",
-      "file": "甜蕾缪糕.bdi",
-      "thumb": "甜蕾缪糕.bdi_py_26_light_thumb.png",
-      "full": "甜蕾缪糕.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-pinkpony",
-      "file": "pinkpony.bdi",
-      "thumb": "pinkpony.bdi_py_26_light_thumb.png",
-      "full": "pinkpony.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-纯白誓言",
-      "file": "纯白誓言2.bdi",
-      "thumb": "纯白誓言2.bdi_py_26_light_thumb.png",
-      "full": "纯白誓言2.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-樱粉丝绒",
-      "file": "樱粉丝绒音效二.bdi",
-      "thumb": "樱粉丝绒音效二.bdi_py_26_light_thumb.png",
-      "full": "樱粉丝绒音效二.bdi_py_26_light.png"
-    },
-    {
-      "name": "羽-超天酱",
-      "file": "超天酱.bdi",
-      "thumb": "超天酱.bdi_py_26_light_thumb.png",
-      "full": "超天酱.bdi_py_26_light.png"
     }
   ]
 }

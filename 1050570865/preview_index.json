@@ -1,98 +1,8 @@
 {
   "qq_number": "1565637055",
   "group_number": "1050570865",
-  "updated_at": "2026-04-22T16:19:14.724620",
+  "updated_at": "2026-04-23T15:52:35.200074",
   "skins": [
-    {
-      "name": "羽の蕾丝匣",
-      "file": "羽の蕾丝匣.bds",
-      "thumb": "羽の蕾丝匣.bds_py_26_light_thumb.png",
-      "full": "羽の蕾丝匣.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-布丁布丁布灵布灵",
-      "file": "羽_布丁布丁布丁布灵.bds",
-      "thumb": "羽_布丁布丁布丁布灵.bds_py_26_light_thumb.png",
-      "full": "羽_布丁布丁布丁布灵.bds_py_26_light.png"
-    },
-    {
-      "name": "羽の蕾丝匣2",
-      "file": "羽の蕾丝匣2.bds",
-      "thumb": "羽の蕾丝匣2.bds_py_26_light_thumb.png",
-      "full": "羽の蕾丝匣2.bds_py_26_light.png"
-    },
-    {
-      "name": "羽の蕾丝匣3",
-      "file": "羽の蕾丝匣3.bds",
-      "thumb": "羽の蕾丝匣3.bds_py_26_light_thumb.png",
-      "full": "羽の蕾丝匣3.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-生活再轻松一点吧",
-      "file": "羽-生活再轻松一点吧.bds",
-      "thumb": "羽-生活再轻松一点吧.bds_py_26_light_thumb.png",
-      "full": "羽-生活再轻松一点吧.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-宵崎奏2",
-      "file": "羽-宵崎奏2.bds",
-      "thumb": "羽-宵崎奏2.bds_py_26_light_thumb.png",
-      "full": "羽-宵崎奏2.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-宵崎奏",
-      "file": "羽-宵崎奏.bds",
-      "thumb": "羽-宵崎奏.bds_py_26_light_thumb.png",
-      "full": "羽-宵崎奏.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-布丁布丁布灵布灵2",
-      "file": "羽_布丁布丁布灵布灵2.bds",
-      "thumb": "羽_布丁布丁布灵布灵2.bds_py_26_light_thumb.png",
-      "full": "羽_布丁布丁布灵布灵2.bds_py_26_light.png"
-    },
-    {
-      "name": "字节『夏天就要来杯冰沙』（脆脆）",
-      "file": "夏天就要来杯冰沙脆脆.bds",
-      "thumb": "夏天就要来杯冰沙脆脆.bds_py_26_light_thumb.png",
-      "full": "夏天就要来杯冰沙脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "字节『就算是打工人也要吃早餐』",
-      "file": "就算是打工人也要吃早餐.bds",
-      "thumb": "就算是打工人也要吃早餐.bds_py_26_light_thumb.png",
-      "full": "就算是打工人也要吃早餐.bds_py_26_light.png"
-    },
-    {
-      "name": "字节-傲梅",
-      "file": "傲梅.bds",
-      "thumb": "傲梅.bds_py_26_light_thumb.png",
-      "full": "傲梅.bds_py_26_light.png"
-    },
-    {
-      "name": "小洁の编织梦",
-      "file": "编织梦.bds",
-      "thumb": "编织梦.bds_py_26_light_thumb.png",
-      "full": "编织梦.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-生活再轻松一点吧2",
-      "file": "羽-生活再轻松一点吧2.bds",
-      "thumb": "羽-生活再轻松一点吧2.bds_py_26_light_thumb.png",
-      "full": "羽-生活再轻松一点吧2.bds_py_26_light.png"
-    },
-    {
-      "name": "字节『夏天就要来杯冰沙』（闷闷）",
-      "file": "夏天就要来杯冰沙闷闷.bds",
-      "thumb": "夏天就要来杯冰沙闷闷.bds_py_26_light_thumb.png",
-      "full": "夏天就要来杯冰沙闷闷.bds_py_26_light.png"
-    },
-    {
-      "name": "字节『灰眸』",
-      "file": "灰眸.bds",
-      "thumb": "灰眸.bds_py_26_light_thumb.png",
-      "full": "灰眸.bds_py_26_light.png"
-    },
     {
       "name": "字节-傲梅",
       "file": "傲梅.bdi",
@@ -188,6 +98,96 @@
       "file": "枯雪脆.bdi",
       "thumb": "枯雪脆.bdi_py_26_light_thumb.png",
       "full": "枯雪脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽の蕾丝匣",
+      "file": "羽の蕾丝匣.bds",
+      "thumb": "羽の蕾丝匣.bds_py_26_light_thumb.png",
+      "full": "羽の蕾丝匣.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-布丁布丁布灵布灵",
+      "file": "羽_布丁布丁布丁布灵.bds",
+      "thumb": "羽_布丁布丁布丁布灵.bds_py_26_light_thumb.png",
+      "full": "羽_布丁布丁布丁布灵.bds_py_26_light.png"
+    },
+    {
+      "name": "羽の蕾丝匣2",
+      "file": "羽の蕾丝匣2.bds",
+      "thumb": "羽の蕾丝匣2.bds_py_26_light_thumb.png",
+      "full": "羽の蕾丝匣2.bds_py_26_light.png"
+    },
+    {
+      "name": "羽の蕾丝匣3",
+      "file": "羽の蕾丝匣3.bds",
+      "thumb": "羽の蕾丝匣3.bds_py_26_light_thumb.png",
+      "full": "羽の蕾丝匣3.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-生活再轻松一点吧",
+      "file": "羽-生活再轻松一点吧.bds",
+      "thumb": "羽-生活再轻松一点吧.bds_py_26_light_thumb.png",
+      "full": "羽-生活再轻松一点吧.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-宵崎奏2",
+      "file": "羽-宵崎奏2.bds",
+      "thumb": "羽-宵崎奏2.bds_py_26_light_thumb.png",
+      "full": "羽-宵崎奏2.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-宵崎奏",
+      "file": "羽-宵崎奏.bds",
+      "thumb": "羽-宵崎奏.bds_py_26_light_thumb.png",
+      "full": "羽-宵崎奏.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-布丁布丁布灵布灵2",
+      "file": "羽_布丁布丁布灵布灵2.bds",
+      "thumb": "羽_布丁布丁布灵布灵2.bds_py_26_light_thumb.png",
+      "full": "羽_布丁布丁布灵布灵2.bds_py_26_light.png"
+    },
+    {
+      "name": "字节『夏天就要来杯冰沙』（脆脆）",
+      "file": "夏天就要来杯冰沙脆脆.bds",
+      "thumb": "夏天就要来杯冰沙脆脆.bds_py_26_light_thumb.png",
+      "full": "夏天就要来杯冰沙脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "字节『就算是打工人也要吃早餐』",
+      "file": "就算是打工人也要吃早餐.bds",
+      "thumb": "就算是打工人也要吃早餐.bds_py_26_light_thumb.png",
+      "full": "就算是打工人也要吃早餐.bds_py_26_light.png"
+    },
+    {
+      "name": "字节-傲梅",
+      "file": "傲梅.bds",
+      "thumb": "傲梅.bds_py_26_light_thumb.png",
+      "full": "傲梅.bds_py_26_light.png"
+    },
+    {
+      "name": "小洁の编织梦",
+      "file": "编织梦.bds",
+      "thumb": "编织梦.bds_py_26_light_thumb.png",
+      "full": "编织梦.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-生活再轻松一点吧2",
+      "file": "羽-生活再轻松一点吧2.bds",
+      "thumb": "羽-生活再轻松一点吧2.bds_py_26_light_thumb.png",
+      "full": "羽-生活再轻松一点吧2.bds_py_26_light.png"
+    },
+    {
+      "name": "字节『夏天就要来杯冰沙』（闷闷）",
+      "file": "夏天就要来杯冰沙闷闷.bds",
+      "thumb": "夏天就要来杯冰沙闷闷.bds_py_26_light_thumb.png",
+      "full": "夏天就要来杯冰沙闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "字节『灰眸』",
+      "file": "灰眸.bds",
+      "thumb": "灰眸.bds_py_26_light_thumb.png",
+      "full": "灰眸.bds_py_26_light.png"
     }
   ]
 }

@@ -1,50 +1,8 @@
 {
   "qq_number": "1565637055",
   "group_number": "1055183065",
-  "updated_at": "2026-04-22T16:19:14.668351",
+  "updated_at": "2026-04-23T15:52:35.142649",
   "skins": [
-    {
-      "name": "羽-富江",
-      "file": "富江2.bds",
-      "thumb": "富江2.bds_py_26_light_thumb.png",
-      "full": "富江2.bds_py_26_light.png"
-    },
-    {
-      "name": "羽_恋爱像酸涩苹果",
-      "file": "恋爱就是头绿绿的.bds",
-      "thumb": "恋爱就是头绿绿的.bds_py_26_light_thumb.png",
-      "full": "恋爱就是头绿绿的.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-晓山瑞希",
-      "file": "羽-晓山瑞希.bds",
-      "thumb": "羽-晓山瑞希.bds_py_26_light_thumb.png",
-      "full": "羽-晓山瑞希.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-晓山瑞希2",
-      "file": "羽-晓山瑞希2.bds",
-      "thumb": "羽-晓山瑞希2.bds_py_26_light_thumb.png",
-      "full": "羽-晓山瑞希2.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-富江",
-      "file": "富江.bds",
-      "thumb": "富江.bds_py_26_light_thumb.png",
-      "full": "富江.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-富江",
-      "file": "富江3.bds",
-      "thumb": "富江3.bds_py_26_light_thumb.png",
-      "full": "富江3.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-圣诣",
-      "file": "羽-圣诣.bds",
-      "thumb": "羽-圣诣.bds_py_26_light_thumb.png",
-      "full": "羽-圣诣.bds_py_26_light.png"
-    },
     {
       "name": "羽-晓山瑞希",
       "file": "羽-晓山瑞希2.bdi",
@@ -86,6 +44,48 @@
       "file": "富江.bdi",
       "thumb": "富江.bdi_py_26_light_thumb.png",
       "full": "富江.bdi_py_26_light.png"
+    },
+    {
+      "name": "羽-富江",
+      "file": "富江2.bds",
+      "thumb": "富江2.bds_py_26_light_thumb.png",
+      "full": "富江2.bds_py_26_light.png"
+    },
+    {
+      "name": "羽_恋爱像酸涩苹果",
+      "file": "恋爱就是头绿绿的.bds",
+      "thumb": "恋爱就是头绿绿的.bds_py_26_light_thumb.png",
+      "full": "恋爱就是头绿绿的.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-晓山瑞希",
+      "file": "羽-晓山瑞希.bds",
+      "thumb": "羽-晓山瑞希.bds_py_26_light_thumb.png",
+      "full": "羽-晓山瑞希.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-晓山瑞希2",
+      "file": "羽-晓山瑞希2.bds",
+      "thumb": "羽-晓山瑞希2.bds_py_26_light_thumb.png",
+      "full": "羽-晓山瑞希2.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-富江",
+      "file": "富江.bds",
+      "thumb": "富江.bds_py_26_light_thumb.png",
+      "full": "富江.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-富江",
+      "file": "富江3.bds",
+      "thumb": "富江3.bds_py_26_light_thumb.png",
+      "full": "富江3.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-圣诣",
+      "file": "羽-圣诣.bds",
+      "thumb": "羽-圣诣.bds_py_26_light_thumb.png",
+      "full": "羽-圣诣.bds_py_26_light.png"
     }
   ]
 }
