@@ -1,7 +1,7 @@
 {
   "qq_number": "1565637055",
   "group_number": "1050570865",
-  "updated_at": "2026-06-28T10:59:23+00:00",
+  "updated_at": "2026-06-28T10:59:41+00:00",
   "skins": [
     {
       "name": "字节-傲梅",
@@ -190,12 +190,6 @@
       "full": "灰眸.bds_py_26_light.png"
     },
     {
-      "name": "黛婳屏2",
-      "file": "黛婳屏2.bdi",
-      "thumb": "黛婳屏2.bdi_py_26_light_thumb.png",
-      "full": "黛婳屏2.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "羽-黛婳屏_音效一",
       "file": "黛婳屏.bds",
       "thumb": "黛婳屏.bds_py_26_light_thumb.png",
@@ -206,6 +200,12 @@
       "file": "黛婳屏.bdi",
       "thumb": "黛婳屏.bdi_py_26_light_thumb.png",
       "full": "黛婳屏.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "黛婳屏2",
+      "file": "黛婳屏2.bdi",
+      "thumb": "黛婳屏2.bdi_py_26_light_thumb.png",
+      "full": "黛婳屏2.bdi_py_26_light_thumb.png"
     }
   ]
 }
