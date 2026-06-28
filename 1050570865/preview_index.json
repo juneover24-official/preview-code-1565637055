@@ -1,7 +1,7 @@
 {
   "qq_number": "1565637055",
   "group_number": "1050570865",
-  "updated_at": "2026-04-23T15:52:35.200074",
+  "updated_at": "2026-06-28T10:00:57+00:00",
   "skins": [
     {
       "name": "字节-傲梅",
@@ -188,6 +188,12 @@
       "file": "灰眸.bds",
       "thumb": "灰眸.bds_py_26_light_thumb.png",
       "full": "灰眸.bds_py_26_light.png"
+    },
+    {
+      "name": "黛婳屏2",
+      "file": "黛婳屏2.bdi",
+      "thumb": "黛婳屏2.bdi_py_26_light_thumb.png",
+      "full": "黛婳屏2.bdi_py_26_light_thumb.png"
     }
   ]
 }
